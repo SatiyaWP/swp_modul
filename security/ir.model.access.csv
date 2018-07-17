@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_swp_modul_swp_modul,swp_modul.swp_modul,model_swp_modul_swp_modul,,1,0,0,0
